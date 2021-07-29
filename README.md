@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brnee6
 - 👀 I’m interested in Technology , PCs 
-- 🌱 I’m currently learning Website Applictions
+- 🌱 I’m currently learning Website Applications
 - 📫 How to reach me @Brnee6 on Twitter
 
 <!---
